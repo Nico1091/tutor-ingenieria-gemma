@@ -87,7 +87,7 @@ public/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Nico1091/ai-engineering-tutor
+git clone https://github.com/Nico1091/tutor-ingenieria-gemma
 cd Desarollo--gemma4-Hackhaton
 ```
 
